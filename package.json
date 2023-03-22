@@ -25,6 +25,9 @@
   },
   "homepage": "https://github.com/Shengguo-Zhou/tuiter-node-server-app#readme",
   "dependencies": {
+    "aios": "^1.0.1",
+    "axios": "^1.3.4",
+    "cors": "^2.8.5",
     "express": "^4.18.2"
   }
 }
